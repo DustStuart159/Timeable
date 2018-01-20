@@ -9,17 +9,17 @@
   - return TimeableFile
   - compose of addTasks
   
-  # addTasks
-  - assign number of Tasks that you need to do
-  - write Tasks on File
-  - comprise addTaskArray
-  
-  # addTaskArray
-  - creatTimeable in SpeacialStructure
-  - comprise of arrangeTasks
-  
-  # arrangeTaskArray
-  - arrange CreatedTaskArray
+    # addTasks
+    - assign number of Tasks that you need to do
+    - write Tasks on File
+    - comprise addTaskArray
+
+    # addTaskArray
+    - creatTimeable in SpeacialStructure
+    - comprise of arrangeTasks
+
+    # arrangeTaskArray
+    - arrange CreatedTaskArray
   
   # observeTimeable
   - show Timeable that you requested
@@ -30,14 +30,14 @@
     - return Path of File is sRF
     - comprise of showControllerMenu
     
-    # showConrollerMenu
-    - display SelectionScreen
-    - get Char from Keyboard
-    - return File or Folder Name
+      # showConrollerMenu
+      - display SelectionScreen
+      - get Char from Keyboard
+      - return File or Folder Name
   
-  # showTimeable
-  - get sRF
-  - showTimeable
+    # showTimeable
+    - get sRF
+    - showTimeable
   
 # getCurrentTime
 - getRealTime
